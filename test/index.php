@@ -84,7 +84,7 @@
             <div class="spinner"></div>
             <div class="txt-loading">
               <span data-text-preloader="s" class="letters-loading">
-                S
+                XX
               </span>
               <span data-text-preloader="u" class="letters-loading">
                 U
