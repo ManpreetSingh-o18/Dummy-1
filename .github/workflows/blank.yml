@@ -31,4 +31,5 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: test 
+          folder: test
+          key: ${{ secrets.SSH_PRIVATE }} 
